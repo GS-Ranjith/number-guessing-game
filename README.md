@@ -1,6 +1,6 @@
 🎮 Number Guessing Game (Python)
 
-A simple Python game where the computer selects a random number between 1 and 100, and the player has to guess it. After every guess, the game gives hints such as:
+A simple Python game where the computer selects a random number between 1 and 50, and the player has to guess it. After every guess, the game gives hints such as:
 
 Too High
 
